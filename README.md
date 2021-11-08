@@ -1,3 +1,5 @@
 # visualisations_hw2
 
-Hi, please check .ipynb file
+Hi!
+Code in .ipynb file
+Images are in img/ folder
